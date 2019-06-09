@@ -29,3 +29,7 @@
 ## Repositories
 
 * [AZure JavaScript Sample Apps](http://bit.ly/AzureJSSamples)
+
+## Learning Paths
+
+* [AI Academy](http://bit.ly/AIacademy)
