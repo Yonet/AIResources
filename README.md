@@ -28,7 +28,8 @@
 
 ## Repositories
 
-* [AZure JavaScript Sample Apps](http://bit.ly/AzureJSSamples)
+* [Azure JavaScript Sample Apps](http://bit.ly/AzureJSSamples)
+* [Cognitive Services Labs](http://bit.ly/CognitiveServicesLabs)
 
 ## Learning Paths
 
