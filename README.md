@@ -10,6 +10,7 @@
 
 * [Azure Cognitive Services](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=airesources-github-ayyonet)
 * [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/?WT.mc_id=airesources-github-ayyonet)
+* [Azure Speech Docs](http://bit.ly/AzureSpeech)
 
 ## Image Databases
 
