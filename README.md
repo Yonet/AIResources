@@ -25,3 +25,7 @@
 ## Blogs
 
 [Google AI Blog](https://ai.googleblog.com/)
+
+## Repositories
+
+* [AZure JavaScript Sample Apps](http://bit.ly/AzureJSSamples)
