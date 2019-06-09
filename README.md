@@ -33,3 +33,4 @@
 ## Learning Paths
 
 * [AI Academy](http://bit.ly/AIacademy)
+* [AI Services Learning Path](http://bit.ly/AIServicesLearningPath)
