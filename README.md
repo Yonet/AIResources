@@ -18,6 +18,11 @@
 * [Bing Image Downloader](https://github.com/sethjuarez/Bulk-Bing-Image-downloader)
 * [Google AI Open Images](https://ai.googleblog.com/2019/05/announcing-open-images-v5-and-iccv-2019.html)
 
+## Tools
+
+* [Cognitive Toolkit](https://docs.microsoft.com/cognitive-toolkit/?WT.mc_id=docs-github-ayyonet) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph.
+* [ONNX](https://onnx.ai)is an open format to represent deep learning models. Onnx provides a definition of an extensible computation graph model, as well as definitions of built-in operators and standard data types.
+
 ## Ethics
 
 * [Aether Committee](https://aether.microsoft.com/?WT.mc_id=airesources-github-ayyonet)
