@@ -22,6 +22,7 @@
 
 * [Cognitive Toolkit](https://docs.microsoft.com/cognitive-toolkit/?WT.mc_id=docs-github-ayyonet) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. To learn more, check out the [how to video](https://www.youtube.com/watch?v=9gDDO5ldT-4&feature=youtu.be&WT.mc_id=youtube-github-ayyonet).
 * [ONNX](https://onnx.ai) is an open format to represent deep learning models. Onnx provides a definition of an extensible computation graph model, as well as definitions of built-in operators and standard data types.
+* [Techable Machine Google](https://teachablemachine.withgoogle.com/)
 
 ## Ethics
 
