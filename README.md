@@ -30,12 +30,14 @@
 
 ## Blogs
 
-[Google AI Blog](https://ai.googleblog.com/)
+* [Google AI Blog](https://ai.googleblog.com/)
+* [Can AI Be Creative?](http://soshnikov.com/pubdrafts/2020-04-13-can-ai-be-creative-lets-find-out/)
 
 ## Repositories
 
 * [Azure JavaScript Sample Apps](http://bit.ly/AzureJSSamples)
 * [Cognitive Services Labs](http://bit.ly/CognitiveServicesLabs)
+* [Cognitive Portraits](https://github.com/CloudAdvocacy/CognitivePortrait)
 
 ## Learning Paths
 
