@@ -39,6 +39,7 @@
 
 ## Repositories
 
+* [Google AI Research](https://github.com/google-research/google-research)
 * [Azure JavaScript Sample Apps](http://bit.ly/AzureJSSamples)
 * [Cognitive Services Labs](http://bit.ly/CognitiveServicesLabs)
 * [Cognitive Portraits](https://github.com/CloudAdvocacy/CognitivePortrait)
