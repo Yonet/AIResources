@@ -12,7 +12,11 @@
 * [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/?WT.mc_id=airesources-github-ayyonet)
 * [Azure Speech Docs](http://bit.ly/AzureSpeech)
 
-## Image Databases
+## Models
+
+* [Github Collection: Model Zoos of machine and deep learning technologies](https://github.com/collections/ai-model-zoos)
+
+### Image Databases
 
 * [ImageNet](http://www.image-net.org/)
 * [Bing Image Downloader](https://github.com/sethjuarez/Bulk-Bing-Image-downloader)
