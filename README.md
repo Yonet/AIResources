@@ -1,10 +1,16 @@
 # AI Resources
 
-- [](#)
-- [](#)
-- [](#)
-- [](#)
+- [Frameworks](#frameworks)
+- [Cloud Services](#cloud-services)
+- [Models](#models)
+  - [Image Databases](#image-databases)
+- [Tools](#tools)
+- [Ethics](#ethics)
+- [Repositories](#repositories)
+- [Learning Paths](#learning-paths)
 - [Follow](#follow)
+  - [Blogs](#blogs)
+  - [Medium](#medium)
 
 ## Frameworks
 
@@ -37,7 +43,6 @@
 ## Ethics
 
 * [Aether Committee](https://aether.microsoft.com/?WT.mc_id=airesources-github-ayyonet)
-
 
 
 ## Repositories
