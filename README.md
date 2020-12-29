@@ -1,5 +1,11 @@
 # AI Resources
 
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [Follow](#follow)
+
 ## Frameworks
 
 * [ML.NET](https://docs.microsoft.com/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json&WT.mc_id=airesources-github-ayyonet#mlnet)
@@ -32,10 +38,7 @@
 
 * [Aether Committee](https://aether.microsoft.com/?WT.mc_id=airesources-github-ayyonet)
 
-## Blogs
 
-* [Google AI Blog](https://ai.googleblog.com/)
-* [Can AI Be Creative?](http://soshnikov.com/pubdrafts/2020-04-13-can-ai-be-creative-lets-find-out/)
 
 ## Repositories
 
@@ -48,3 +51,17 @@
 
 * [AI Academy](http://bit.ly/AIacademy)
 * [AI Services Learning Path](http://bit.ly/AIServicesLearningPath)
+
+## Follow
+
+- [AI List on Twitter](https://twitter.com/i/lists/1169338272914395136)
+- [AI, ML, and Data Science list on Twitter](https://twitter.com/i/lists/952969346518720512)
+
+### Blogs
+
+* [Google AI Blog](https://ai.googleblog.com/)
+* [Can AI Be Creative?](http://soshnikov.com/pubdrafts/2020-04-13-can-ai-be-creative-lets-find-out/)
+
+### Medium
+
+- [Stefania Druga](https://medium.com/@Stefania_druga)
