@@ -41,6 +41,12 @@
 * [Techable Machine Google](https://teachablemachine.withgoogle.com/)
 * [What-If Tool](https://pair-code.github.io/what-if-tool/index.html#demos)
 
+### Conversational AI
+
+- [Language Understanding](https://www.luis.ai/?WT.mc_id=aiml-0000-ayyonet)
+- [ConversationAI](https://github.com/conversationai/perspectiveapi)
+- [Perspective API](https://www.perspectiveapi.com/#/home)
+
 [![Getting Started with the What-if Tool | Introducing the What-If Tool](http://img.youtube.com/vi/qTUUwfG1vSs/0.jpg)](https://youtu.be/qTUUwfG1vSs)
 
 ## Ethics
