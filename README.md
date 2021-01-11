@@ -44,6 +44,7 @@
 * [ONNX](https://onnx.ai) is an open format to represent deep learning models. Onnx provides a definition of an extensible computation graph model, as well as definitions of built-in operators and standard data types.
 * [Techable Machine Google](https://teachablemachine.withgoogle.com/)
 * [What-If Tool](https://pair-code.github.io/what-if-tool/index.html#demos)
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
 ### Conversational AI
 
