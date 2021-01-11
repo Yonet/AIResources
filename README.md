@@ -28,6 +28,10 @@
 
 * [Github Collection: Model Zoos of machine and deep learning technologies](https://github.com/collections/ai-model-zoos)
 
+## Data
+
+- [Dataset Search Research by Google](https://datasetsearch.research.google.com/)
+
 ### Image Databases
 
 * [ImageNet](http://www.image-net.org/)
@@ -39,6 +43,15 @@
 * [Cognitive Toolkit](https://docs.microsoft.com/cognitive-toolkit/?WT.mc_id=aiml-0000-ayyonet) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. To learn more, check out the [how to video](https://www.youtube.com/watch?v=9gDDO5ldT-4&feature=youtu.be&WT.mc_id=youtube-github-ayyonet).
 * [ONNX](https://onnx.ai) is an open format to represent deep learning models. Onnx provides a definition of an extensible computation graph model, as well as definitions of built-in operators and standard data types.
 * [Techable Machine Google](https://teachablemachine.withgoogle.com/)
+* [What-If Tool](https://pair-code.github.io/what-if-tool/index.html#demos)
+
+### Conversational AI
+
+- [Language Understanding](https://www.luis.ai/?WT.mc_id=aiml-0000-ayyonet)
+- [ConversationAI](https://github.com/conversationai/perspectiveapi)
+- [Perspective API](https://www.perspectiveapi.com/#/home)
+
+[![Getting Started with the What-if Tool | Introducing the What-If Tool](http://img.youtube.com/vi/qTUUwfG1vSs/0.jpg)](https://youtu.be/qTUUwfG1vSs)
 
 ## Ethics
 
@@ -69,4 +82,4 @@
 
 ### Medium
 
-- [Stefania Druga](https://medium.com/@Stefania_druga)
+- [Stefania Druga](https://medium.com/@Stefania_druga) 
